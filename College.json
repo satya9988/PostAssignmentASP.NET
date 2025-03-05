@@ -1,0 +1,44 @@
+{
+    "collegename": "Harvard University",
+    "collegeaddress": "Cambridge, Massachusetts",
+    "Department": [
+        {
+            "departmentname": "Physics",
+            "hod": "Dr. Stephen",
+            "classes": [
+                {
+                    "classname": "Batch-X",
+                    "staffname": "Dr. Newton",
+                    "classcapacity": 45,
+                    "student": [
+                        {
+                            "studentname": "Alice Johnson",
+                            "studentdateOfBirth": "1998-03-25"
+                        },
+                        {
+                            "studentname": "Bob Smith",
+                            "studentdateOfBirth": "1997-07-19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "departmentname": "Mathematics",
+            "hod": "Dr. Alan",
+            "classes": [
+                {
+                    "classname": "Batch-Y",
+                    "staffname": "Dr. Euler",
+                    "classcapacity": 50,
+                    "student": [
+                        {
+                            "studentname": "Charlie Brown",
+                            "studentdateOfBirth": "1996-11-11"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

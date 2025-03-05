@@ -1,0 +1,29 @@
+create table college
+(collegeid serial primary key,collegename varchar(30),collegeaddress varchar(50)
+);
+create table department
+(
+   departmentid serial primary key,departmentname varchar(30),
+   hod varchar(30),collegeid int,
+   foreign key (collegeid) references college(collegeid)
+)
+
+create table classes(
+classid serial primary key,classname varchar(30),staffname varchar(30),
+classcapacity int,departmentid int,
+FOREIGN KEY (departmentid) REFERENCES department (departmentid)
+)
+ 
+create table students(
+studentid serial primary key,studentname varchar(30),
+studentdob date,classid int,
+FOREIGN KEY (classid) REFERENCES classes (classid)
+)
+
+select * from college;
+
+select * from department;
+
+select * from classes;
+
+select * from students;

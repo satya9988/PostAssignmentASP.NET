@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uR5FG6ClIrV+ZlX6KN9YczdxByKE/NUpM9Qbuy3xLLI=",
+  "Source": "DataProcessor",
+  "BasePath": "_content/DataProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

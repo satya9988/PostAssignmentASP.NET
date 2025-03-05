@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "DataProcessor.Controllers.HomeController",
+    "Method": "GetAllCollege",
+    "RelativePath": "api/Home/GetAllCollege",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataProcessor.Controllers.HomeController",
+    "Method": "GetAllClasses",
+    "RelativePath": "api/Home/GetClasses/{collegename}/{departmentname}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "collegename",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "departmentname",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataProcessor.Controllers.HomeController",
+    "Method": "GetAllDepartments",
+    "RelativePath": "api/Home/GetDepartment/{collegename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "collegename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataProcessor.Controllers.HomeController",
+    "Method": "GetStudent",
+    "RelativePath": "api/Home/GetStudent/{collegename}/{departmentname}/{classname}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "collegename",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "departmentname",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "classname",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataProcessor.Controllers.HomeController",
+    "Method": "UploadJson",
+    "RelativePath": "api/Home/upload-json",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
