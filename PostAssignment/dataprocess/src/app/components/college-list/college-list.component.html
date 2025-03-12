@@ -1,0 +1,21 @@
+<div *ngIf="college.length > 0" class="container mt-5">
+    <div class="card shadow-lg p-4">
+      <h3 class="text-center text-primary mb-4">List of Colleges: {{ college.length }}</h3>
+      <div *ngFor="let c of college" class="list-item mb-3 p-3 border rounded bg-light">
+        <div class="row g-3 align-items-center">
+          <!-- Placeholder Image -->
+          <div class="col-md-3">
+            <img src="./assets/images/{{c.collegename}}.jpg" class="img-fluid rounded" alt="College Image">
+          </div>
+          <div class="col-md-9">
+            <hr>
+            <a [routerLink]="['/department-list', c.collegename]" class="text-decoration-none">
+              <h4><span class="text-success">{{ c.collegename }}</span></h4>
+            </a>
+            <h6><span class="text-info">{{ c.collegeaddress }}</span></h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

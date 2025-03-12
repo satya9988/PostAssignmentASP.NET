@@ -78,8 +78,7 @@
               "RelativeToolTip": "DataProcessor\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-12T09:24:19.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T09:24:19.386Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\UserDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:57:16.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T08:57:16.608Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "DataProcessor\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:56:25.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T08:56:25.496Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:24:29.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:24:29.649Z"
             },
             {
               "$type": "Document",
@@ -130,8 +126,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\Classes.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:15:07.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:15:07.262Z"
             },
             {
               "$type": "Document",
@@ -143,8 +138,7 @@
               "RelativeToolTip": "DataProcessor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:09:30.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:09:30.412Z"
             },
             {
               "$type": "Document",
@@ -156,8 +150,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\DataDAL.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAcwMkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:28:52.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:28:52.133Z"
             },
             {
               "$type": "Document",
@@ -169,8 +162,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\IDataDAL.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:23:26.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:23:26.905Z"
             },
             {
               "$type": "Document",
@@ -182,8 +174,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\DataDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:05:27.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:05:27.028Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\Department.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAIBQwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:54:49.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:54:49.69Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "DataProcessor\\Model\\College.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:01:21.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:01:21.677Z"
             }
           ]
         }

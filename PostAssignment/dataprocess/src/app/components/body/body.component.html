@@ -1,0 +1,24 @@
+<div class="container mt-5">
+    <div class="row">
+      <!-- Sidebar Section -->
+      <div class="col-md-4">
+        <div class="alert alert-info shadow-lg p-4 h-100">
+          <h3 class="text-center text-light mb-4" style="background-color: #0056b3; padding: 10px; border-radius: 5px;">Navigation</h3>
+          <p>
+            <button routerLink="/home" class="btn btn-dark btn-lg w-100 mb-3">Upload File</button>
+          </p>
+          <p>
+            <button routerLink="/college-list" class="btn btn-dark btn-lg w-100">List of Colleges</button>
+          </p>
+        </div>
+      </div>
+  
+      <!-- Main Content Section -->
+      <div class="col-md-8">
+        <div class="card shadow-lg p-4 h-100" style="background-color: #f8f9fa; border: 2px solid #0056b3;">
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+    </div>
+  </div>
+  

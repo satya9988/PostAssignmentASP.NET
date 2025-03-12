@@ -1,0 +1,25 @@
+<div *ngIf="student.length > 0" class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <h4 class="text-info"><a [routerLink]="['/college-list']" style="text-decoration: none; color:green">{{collegename}}--></a>
+            <span class="text-info"><a [routerLink]="['/department-list',collegename]" style="text-decoration: none; color:green">{{ departmentname }}--></a></span>
+            <span class="text-info" ><a [routerLink]="['/class-list',collegename,departmentname]" style="text-decoration: none; color:green">{{classname}}</a></span>
+        </h4>
+      <h3 class="text-center text-primary mb-4">List of Students: {{ student.length }}</h3>
+      <div *ngFor="let std of student" class="list-item mb-3 p-3 border rounded bg-light">
+        <div class="row g-3 align-items-center">
+          <!-- Placeholder Image -->
+          <div class="col-md-3">
+            <img src="./assets/images/{{std.studentname}}.jpg" class="img-fluid rounded" alt="Student Image">
+          </div>
+          <div class="col-md-9">
+            <hr>
+           
+            <h4><span class="fw-bold" >{{ std.studentname }}</span></h4>
+            <h5>Date of Birth: <span class="text-muted">{{ std.studentdateOfBirth }}</span></h5>
+            <hr>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

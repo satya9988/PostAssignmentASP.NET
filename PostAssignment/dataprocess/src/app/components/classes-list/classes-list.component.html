@@ -1,0 +1,24 @@
+<div *ngIf="class.length > 0" class="container mt-5">
+    <div class="card shadow-lg p-4">
+     <h4 class="text-info" ><a [routerLink]="['/college-list']" style="text-decoration: none; color:green">{{collegename}} --> </a> 
+     <span class="text-info" ><a [routerLink]="['/department-list',collegename]" style="text-decoration: none; color:green">{{ departmentname }}</a></span></h4>
+      <h3 class="text-center text-primary mb-4">List of Classes: {{ class.length }}</h3>
+      <div *ngFor="let cls of class" class="list-item mb-3 p-3 border rounded bg-light">
+        <div class="row g-3 align-items-center">
+          <!-- Placeholder Image -->
+         
+          <div class="col-md-9">
+            <hr>
+           
+            
+            <a [routerLink]="['/student-list', collegename, departmentname, cls.classname]" style="text-decoration: none;">
+             <h4 >{{ cls.classname }}</h4>
+            </a>
+            <h6 >Staff Name: <span class="text-warning">{{ cls.staffname }}</span></h6>
+            <h6>Class Capacity: <span >{{ cls.classcapacity }}</span></h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

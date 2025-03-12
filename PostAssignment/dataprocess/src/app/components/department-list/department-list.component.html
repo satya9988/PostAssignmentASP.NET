@@ -1,0 +1,24 @@
+<div *ngIf="department.length > 0" class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <h4 class="text-success"><a [routerLink]="['/college-list']" style="text-decoration: none; color:green">{{ collegename }}</a></h4>
+      <h3 class="text-center text-primary mb-4">List of Departments: {{ department.length }}</h3>
+      <div *ngFor="let d of department" class="list-item mb-3 p-3 border rounded bg-light">
+        <div class="row g-3 align-items-center">
+          <!-- Placeholder Image -->
+          <div class="col-md-3">
+            <img src="./assets/images/{{d.departmentname}}.jpg" class="img-fluid rounded" alt="Department Image">
+          </div>
+          <div class="col-md-9">
+            <hr>
+           
+            <a [routerLink]="['/class-list', collegename, d.departmentname]" class="text-decoration-none">
+              <h4 class="text-info" >{{ d.departmentname }}</h4>
+            </a>
+            <h5>HOD: <span class="text-warning">{{ d.hod }}</span></h5>
+            <hr>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
