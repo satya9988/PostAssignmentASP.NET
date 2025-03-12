@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "DataProcessor.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "DataProcessor.Model.UserDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DataProcessor.Controllers.HomeController",
     "Method": "GetAllCollege",
     "RelativePath": "api/Home/GetAllCollege",

@@ -121,24 +121,32 @@ namespace DataProcessor.Model
 
         public List<Classes> GetClasses(string collegename, string departmentname)
         {
-            College record = ctx.College.FirstOrDefault(k1 => k1.collegename == collegename);
-
-
-            if (record == null)
-            {
-                return new List<Classes>();
-            }
-
-            Department dept = ctx.Department.FirstOrDefault(k => k.departmentid == record.collegeid && k.departmentname == departmentname);
            
-            if (dept == null)
+            College collegeRecord = ctx.College.FirstOrDefault(c => c.collegename == collegename);
+
+            if (collegeRecord == null)
             {
+               
                 return new List<Classes>();
             }
 
-             List<Classes> cls = ctx.Classes.Where(k => k.classid==dept.departmentid).ToList();
-            return cls;
+            
+            Department departmentRecord = ctx.Department.FirstOrDefault(d =>
+                d.departmentname == departmentname && d.collegeid == collegeRecord.collegeid);
+
+            if (departmentRecord == null)
+            {
+               
+                return new List<Classes>();
+            }
+
+          
+            List<Classes> classes = ctx.Classes.Where(cl => cl.departmentid == departmentRecord.departmentid).ToList();
+
+            return classes;
         }
+
+
 
 
         public List<Student> GetStudent(string collegename, string departmentname, string classname)

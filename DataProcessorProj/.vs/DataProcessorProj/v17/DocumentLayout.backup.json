@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\model\\datadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\model\\datadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\model\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\model\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\model\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|c:\\users\\satyanarayana.k\\postassignmentasp.net\\dataprocessorproj\\dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACE3DB2-7CC2-46D9-A95A-F1BC57866CBF}|DataProcessor\\DataProcessor.csproj|solutionrelative:dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +58,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "DataProcessor\\appsettings.json",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\appsettings.json",
+              "RelativeToolTip": "DataProcessor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T09:24:19.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\UserDetails.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\Model\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\UserDetails.cs",
+              "RelativeToolTip": "DataProcessor\\Model\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:57:16.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DataProcessor\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DataProcessor\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:56:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\Student.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\Student.cs",
@@ -67,58 +122,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Classes.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\Classes.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\Classes.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\Classes.cs",
               "RelativeToolTip": "DataProcessor\\Model\\Classes.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T09:15:07.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Program.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Program.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Program.cs",
               "RelativeToolTip": "DataProcessor\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:09:30.412Z"
+              "WhenOpened": "2025-03-05T06:09:30.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DataDAL.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\DataDAL.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\DataDAL.cs",
-              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\DataDAL.cs*",
-              "RelativeToolTip": "DataProcessor\\Model\\DataDAL.cs*",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAwM0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\DataDAL.cs",
+              "RelativeToolTip": "DataProcessor\\Model\\DataDAL.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAcwMkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:28:52.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IDataDAL.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\IDataDAL.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\IDataDAL.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\IDataDAL.cs",
               "RelativeToolTip": "DataProcessor\\Model\\IDataDAL.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBQAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:23:26.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DataDBContext.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\DataDBContext.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\DataDBContext.cs",
@@ -131,33 +187,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DataProcessor\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGEAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "DataProcessor\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:02:48.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\Department.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\Department.cs",
               "ToolTip": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\Department.cs",
               "RelativeToolTip": "DataProcessor\\Model\\Department.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBQwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T05:54:49.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "College.cs",
               "DocumentMoniker": "C:\\Users\\satyanarayana.k\\PostAssignmentASP.NET\\DataProcessorProj\\DataProcessor\\Model\\College.cs",
               "RelativeDocumentMoniker": "DataProcessor\\Model\\College.cs",

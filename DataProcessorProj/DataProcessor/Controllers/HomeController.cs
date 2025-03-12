@@ -1,4 +1,5 @@
 ﻿using DataProcessor.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -6,6 +7,7 @@ using Newtonsoft.Json;
 namespace DataProcessor.Controllers
 {
     [Route("api/[controller]")]
+    //[Authorize]
     [ApiController]
     public class HomeController : ControllerBase
     {
@@ -30,7 +32,7 @@ namespace DataProcessor.Controllers
             // Save to database
             dal.addcollege(college,jsonContent);
 
-            return Ok("Data successfully uploaded and stored in the database.");
+            return Ok(new { msg = "Data successfully uploaded and stored in the database." });
         }
 
         [HttpGet]
